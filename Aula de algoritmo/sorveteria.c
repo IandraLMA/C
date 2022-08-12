@@ -3,8 +3,8 @@ int i;
 
 do
 {
-    printf /* code */
-} while (/* condition */);
+    printf 
+} while ();
 
 
 
